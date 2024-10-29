@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 组会安排
-tagline: 2024年秋季学期组会安排
-description: 
+tagline: 2024年秋季学期组会
+description: 本主页包含了2024年秋季学期组会的安排通知信息。
 author: 杨启哲
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://www.group.spacepenguin.com.cn' # the base hostname & protocol for your site, e.g. http://example.com
