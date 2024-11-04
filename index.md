@@ -31,8 +31,9 @@ seo:
   </tr>
   <tr>
     <td style="text-align:center;">陈旭</td>
-      <td style="text-align:center; white-space: nowrap">跨模态动态迁移学习<br>用于多模态情感识别</td>
-    <td style="text-align:center; white-space: nowrap"><a href="https://ieeexplore.ieee.org/document/10409167" target= "_blank" >Cross-Modal Dynamic Transfer Learning for Multimodal Emotion Recognition</a></td>
+      <td style="text-align:center; white-space: nowrap">CLIPTrans：使用预训练模型<br>传递视觉知识用于多模态机器翻译</td>
+    <td style="text-align:center; white-space: nowrap"><a href="https://openaccess.thecvf.com//content/ICCV2023/html/Gupta_CLIPTrans_Transferring_Visual_Knowledge_with_Pre-trained_Models_for_Multimodal_Machine_ICCV_2023_paper.html" target= "_blank" >CLIPTrans: Transferring Visual Knowledge with Pre-trained Models for Multimodal Machine Translation
+</a></td>
   </tr>
    <tr>
     <td style="text-align:center;" rowspan="2">第$10$周</td>
