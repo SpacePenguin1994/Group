@@ -27,7 +27,7 @@ seo:
     <td style="text-align:center;">董大腾</td>
     <td style="text-align:center; white-space: nowrap">神经退化表示学习<br>用于全合一图像恢复</td>
     <td style="text-align:center; white-space: nowrap"><a href="https://ieeexplore.ieee.org/document/10680296" target= "_blank"> Neural Degradation Representation Learning for All-in-One Image Restoration </a></td>
-    <td style="text-align:center;" rowspan="2"></td>
+    <td style="text-align:center;" rowspan="2"><a href="https://basics.sjtu.edu.cn/~yangqizhe/pdf/group/semin9-ddt-1105.pptx" target= "_blank"> Slides By 董大腾 </a></td>
   </tr>
   <tr>
     <td style="text-align:center;">陈旭</td>
