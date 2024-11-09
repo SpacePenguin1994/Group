@@ -37,10 +37,12 @@ seo:
   </tr>
    <tr>
     <td style="text-align:center;" rowspan="2">第$10$周</td>
-    <td style="text-align:center" rowspan="2"></td>
-    <td style="text-align:center;"></td>
-    <td style="text-align:center; white-space: nowrap"></td>
-    <td style="text-align:center;"></td>
+    <td style="text-align:center" rowspan="2">11月12日9:45<br>科技楼A座637</td>
+    <td style="text-align:center;">王辉</td>
+    <td style="text-align:center; white-space: nowrap">Agent-Pro: Learning to Evolve \br via Policy-Level Reflection and
+Optimization</td>
+    <td style="text-align:center;">><a href="https://aclanthology.org/2024.acl-long.292/" target= "_blank"> Agent-Pro: Learning to Evolve \br via Policy-Level Reflection and
+Optimization </a></td>
     <td style="text-align:center;" rowspan="2"></td>
   </tr>
   <tr>
