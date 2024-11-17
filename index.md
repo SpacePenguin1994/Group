@@ -52,17 +52,13 @@ Optimization </a></td>
   </tr>
    <tr>
     <td style="text-align:center;" rowspan="2">第$11$周</td>
-    <td style="text-align:center" rowspan="2"></td>
-    <td style="text-align:center;"></td>
-    <td style="text-align:center; white-space: nowrap"></td>
-    <td style="text-align:center;"></td>
+    <td style="text-align:center" rowspan="2">11月19日9:45<br>科技楼A座637</td>
+    <td style="text-align:center;"rowspan="2">陈逸霖</td>
+    <td style="text-align:center; white-space: nowrap"rowspan="2">Omni-Kernel Network for Image Restoration</td>
+    <td style="text-align:center;"rowspan="2"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/27907" target= "_blank"> Omni-Kernel Network for Image Restoration </a></td>
     <td style="text-align:center;" rowspan="2"></td>
   </tr>
-  <tr>
-    <td style="text-align:center;"></td>
-    <td style="text-align:center; white-space: nowrap"></td>
-    <td style="text-align:center;"></td>
-  </tr>
+
    <tr>
     <td style="text-align:center;" rowspan="2">第$12$周</td>
     <td style="text-align:center" rowspan="2"></td>
