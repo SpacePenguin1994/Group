@@ -56,7 +56,7 @@ Optimization </a></td>
     <td style="text-align:center" rowspan="2">陈逸霖</td>
     <td style="text-align:center; white-space: nowrap" rowspan="2">Omni-Kernel Network for Image Restoration</td>
     <td style="text-align:center;" rowspan="2"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/27907" target= "_blank"> Omni-Kernel Network for Image Restoration </a></td>
-    <td style="text-align:center;" rowspan="2"></td>
+    <td style="text-align:center;" rowspan="2"><a href="https://basics.sjtu.edu.cn/~yangqizhe/pdf/group/semin11-cyl-1119.pptx" target= "_blank"> Slides By 陈逸霖</td>
   </tr>
   <tr>
   </tr>
