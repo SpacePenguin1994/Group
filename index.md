@@ -25,13 +25,13 @@ seo:
     <td style="text-align:center;" rowspan="2">第$9$周</td>
     <td style="text-align:center" rowspan="2">11月5日9:45<br>科技楼A座637</td>
     <td style="text-align:center;">董大腾</td>
-    <td style="text-align:center; white-space: nowrap">神经退化表示学习<br>用于全合一图像恢复</td>
+    <td style="text-align:center; white-space: nowrap">神经退化表示学习用于全合一图像恢复</td>
     <td style="text-align:center; white-space: nowrap"><a href="https://ieeexplore.ieee.org/document/10680296" target= "_blank"> Neural Degradation Representation Learning for All-in-One Image Restoration </a></td>
     <td style="text-align:center;" rowspan="2"><a href="https://basics.sjtu.edu.cn/~yangqizhe/pdf/group/semin9-ddt-1105.pptx" target= "_blank"> Slides By 董大腾 </a></td>
   </tr>
   <tr>
     <td style="text-align:center;">陈旭</td>
-      <td style="text-align:center; white-space: nowrap">CLIPTrans：使用预训练模型<br>传递视觉知识用于多模态机器翻译</td>
+      <td style="text-align:center; white-space: nowrap">CLIPTrans：使用预训练模型传递视觉知识用于多模态机器翻译</td>
     <td style="text-align:center; white-space: nowrap"><a href="https://openaccess.thecvf.com//content/ICCV2023/html/Gupta_CLIPTrans_Transferring_Visual_Knowledge_with_Pre-trained_Models_for_Multimodal_Machine_ICCV_2023_paper.html" target= "_blank" >CLIPTrans: Transferring Visual Knowledge with Pre-trained Models for Multimodal Machine Translation
 </a></td>
   </tr>
@@ -39,16 +39,16 @@ seo:
     <td style="text-align:center;" rowspan="2">第$10$周</td>
     <td style="text-align:center" rowspan="2">11月12日9:45<br>科技楼A座637</td>
     <td style="text-align:center;">王辉</td>
-    <td style="text-align:center; white-space: nowrap">Agent-Pro: Learning to Evolve <br> via Policy-Level Reflection and
+    <td style="text-align:center; white-space: nowrap">Agent-Pro: Learning to Evolve via Policy-Level Reflection and
 Optimization</td>
-    <td style="text-align:center;"><a href="https://aclanthology.org/2024.acl-long.292/" target= "_blank"> Agent-Pro: Learning to Evolve <br> via Policy-Level Reflection and
+    <td style="text-align:center;"><a href="https://aclanthology.org/2024.acl-long.292/" target= "_blank"> Agent-Pro: Learning to Evolve via Policy-Level Reflection and
 Optimization </a></td>
     <td style="text-align:center;" rowspan="2"></td>
   </tr>
   <tr>
     <td style="text-align:center;">钟毅迪</td>
-    <td style="text-align:center; white-space: nowrap">Rich Human Feedback for <br> Text-to-Image Generation</td>
-    <td style="text-align:center;"><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Liang_Rich_Human_Feedback_for_Text-to-Image_Generation_CVPR_2024_paper.html" target= "_blank"> Rich Human Feedback for <br> Text-to-Image Generation </a></td>
+    <td style="text-align:center; white-space: nowrap">Rich Human Feedback for Text-to-Image Generation</td>
+    <td style="text-align:center;"><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Liang_Rich_Human_Feedback_for_Text-to-Image_Generation_CVPR_2024_paper.html" target= "_blank"> Rich Human Feedback for Text-to-Image Generation </a></td>
   </tr>
    <tr>
     <td style="text-align:center;" rowspan="2">第$11$周</td>
