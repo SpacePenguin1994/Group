@@ -63,12 +63,15 @@ Optimization </a></td>
   <tr>
     <td style="text-align:center;" rowspan="2">第$12$周</td>
     <td style="text-align:center" rowspan="2">11月26日9:45<br>科技楼A座637</td>
-    <td style="text-align:center" rowspan="2">苏世辉</td>
-    <td style="text-align:center; white-space: nowrap" rowspan="2">Unleashing Channel Potential: Space-Frequency Selection Convolution for SAR Object Detection</td>
-    <td style="text-align:center;" rowspan="2"><a href="https://ieeexplore.ieee.org/document/10656163" target= "_blank"> Unleashing Channel Potential: Space-Frequency Selection Convolution for SAR Object Detection </a></td>
+    <td style="text-align:center" >苏世辉</td>
+    <td style="text-align:center; white-space: nowrap" >Unleashing Channel Potential: Space-Frequency Selection Convolution for SAR Object Detection</td>
+    <td style="text-align:center;" ><a href="https://ieeexplore.ieee.org/document/10656163" target= "_blank"> Unleashing Channel Potential: Space-Frequency Selection Convolution for SAR Object Detection </a></td>
     <td style="text-align:center;" rowspan="2"></td>
   </tr>
-  <tr>
+ <tr>
+    <td style="text-align:center;">荣泽语</td>
+      <td style="text-align:center; white-space: nowrap">BAL: Balancing Diversity and Novelty for Active Learning</td>
+    <td style="text-align:center; white-space: nowrap"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10372131" target= "_blank" >BAL: Balancing Diversity and Novelty for Active Learning</a></td>
   </tr>
    <tr>
     <td style="text-align:center;" rowspan="2">第$13$周</td>
