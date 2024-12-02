@@ -73,18 +73,15 @@ Optimization </a></td>
       <td style="text-align:center; white-space: nowrap">BAL: Balancing Diversity and Novelty for Active Learning</td>
     <td style="text-align:center; white-space: nowrap"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10372131" target= "_blank" >BAL: Balancing Diversity and Novelty for Active Learning</a></td>
   </tr>
-   <tr>
+  <tr>
     <td style="text-align:center;" rowspan="2">第$13$周</td>
-    <td style="text-align:center" rowspan="2"></td>
-    <td style="text-align:center;"></td>
-    <td style="text-align:center; white-space: nowrap"></td>
-    <td style="text-align:center;"></td>
+    <td style="text-align:center" rowspan="2">12月3日9:45<br>科技楼A座637</td>
+    <td style="text-align:center" rowspan="2">张东辰</td>
+    <td style="text-align:center; white-space: nowrap" rowspan="2">Image dehazing via self-supervised depth guidance</td>
+    <td style="text-align:center;" rowspan="2"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324008021" target= "_blank"> Image dehazing via self-supervised depth guidance </a></td>
     <td style="text-align:center;" rowspan="2"></td>
   </tr>
   <tr>
-    <td style="text-align:center;"></td>
-    <td style="text-align:center; white-space: nowrap"></td>
-    <td style="text-align:center;"></td>
   </tr>
    <tr>
     <td style="text-align:center;" rowspan="2">第$14$周</td>
