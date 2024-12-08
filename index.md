@@ -85,16 +85,16 @@ Optimization </a></td>
   </tr>
    <tr>
     <td style="text-align:center;" rowspan="2">第$14$周</td>
-    <td style="text-align:center" rowspan="2"></td>
-    <td style="text-align:center;"></td>
-    <td style="text-align:center; white-space: nowrap"></td>
-    <td style="text-align:center;"></td>
+    <td style="text-align:center" rowspan="2">12月10日9:45<br>科技楼A座637</td>
+    <td style="text-align:center;">董大腾</td>
+    <td style="text-align:center; white-space: nowrap">Learning A Sparse Transformer Network for Effective Image Deraining</td>
+    <td style="text-align:center; white-space: nowrap"><a href="https://cvpr.thecvf.com/virtual/2023/poster/23196" target= "_blank"> Learning A Sparse Transformer Network for Effective Image Deraining </a></td>
     <td style="text-align:center;" rowspan="2"></td>
   </tr>
   <tr>
-    <td style="text-align:center;"></td>
-    <td style="text-align:center; white-space: nowrap"></td>
-    <td style="text-align:center;"></td>
+    <td style="text-align:center;">陈旭</td>
+      <td style="text-align:center; white-space: nowrap">CDDFuse: Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion</td>
+    <td style="text-align:center; white-space: nowrap"><a href=" https://ieeexplore.ieee.org/document/10203571" target= "_blank" >CDDFuse: Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion</a></td>
   </tr>
    <tr>
     <td style="text-align:center;" rowspan="2">第$15$周</td>
