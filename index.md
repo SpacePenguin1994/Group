@@ -98,16 +98,16 @@ Optimization </a></td>
   </tr>
    <tr>
     <td style="text-align:center;" rowspan="2">第$15$周</td>
-    <td style="text-align:center" rowspan="2"></td>
-    <td style="text-align:center;"></td>
-    <td style="text-align:center; white-space: nowrap"></td>
-    <td style="text-align:center;"></td>
+    <td style="text-align:center" rowspan="2">12月17日9:45<br>科技楼A座637</td>
+    <td style="text-align:center;">王辉</td>
+    <td style="text-align:center; white-space: nowrap">ExpeL: LLM Agents Are Experiential Learners</td>
+    <td style="text-align:center;"><a href="https://arxiv.org/abs/2308.10144" target= "_blank"> ExpeL: LLM Agents Are Experiential Learners </a></td>
     <td style="text-align:center;" rowspan="2"></td>
   </tr>
   <tr>
-    <td style="text-align:center;"></td>
-    <td style="text-align:center; white-space: nowrap"></td>
-    <td style="text-align:center;"></td>
+    <td style="text-align:center;">钟毅迪</td>
+    <td style="text-align:center; white-space: nowrap">Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport</td>
+    <td style="text-align:center;"><a href="https://openreview.net/pdf?id=u1cQYxRI1H" target= "_blank"> Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport </a></td>
   </tr>
    <tr>
     <td style="text-align:center;" rowspan="2">第$16$周</td>
