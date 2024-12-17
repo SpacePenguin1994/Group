@@ -102,7 +102,7 @@ Optimization </a></td>
     <td style="text-align:center;">王辉</td>
     <td style="text-align:center; white-space: nowrap">ExpeL: LLM Agents Are Experiential Learners</td>
     <td style="text-align:center;"><a href="https://arxiv.org/abs/2308.10144" target= "_blank"> ExpeL: LLM Agents Are Experiential Learners </a></td>
-    <td style="text-align:center;" rowspan="2"></td>
+    <td style="text-align:center;" rowspan="2"><a href="https://basics.sjtu.edu.cn/~yangqizhe/pdf/group/semin15-wh-1217.pptx" target= "_blank"> Slides By 王辉 </a></td>
   </tr>
   <tr>
     <td style="text-align:center;">钟毅迪</td>
