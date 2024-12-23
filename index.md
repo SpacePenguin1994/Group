@@ -111,16 +111,13 @@ Optimization </a></td>
   </tr>
    <tr>
     <td style="text-align:center;" rowspan="2">第$16$周</td>
-    <td style="text-align:center" rowspan="2"></td>
-    <td style="text-align:center;"></td>
-    <td style="text-align:center; white-space: nowrap"></td>
-    <td style="text-align:center;"></td>
+    <td style="text-align:center" rowspan="2">12月24日9:45<br>科技楼A座637</td>
+    <td style="text-align:center" rowspan="2">陈逸霖</td>
+    <td style="text-align:center; white-space: nowrap" rowspan="2">Residual Deformable Convolution for better image de-weathering</td>
+    <td style="text-align:center;" rowspan="2"><a href="https://www.sciencedirect.com/science/article/pii/S0031320323007902" target= "_blank"> Residual Deformable Convolution for better image de-weathering </a></td>
     <td style="text-align:center;" rowspan="2"></td>
   </tr>
   <tr>
-    <td style="text-align:center;"></td>
-    <td style="text-align:center; white-space: nowrap"></td>
-    <td style="text-align:center;"></td>
   </tr>
 
    <tr>
