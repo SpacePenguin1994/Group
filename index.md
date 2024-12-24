@@ -27,7 +27,7 @@ seo:
     <td style="text-align:center;">董大腾</td>
     <td style="text-align:center; white-space: nowrap">神经退化表示学习用于全合一图像恢复</td>
     <td style="text-align:center; white-space: nowrap"><a href="https://ieeexplore.ieee.org/document/10680296" target= "_blank"> Neural Degradation Representation Learning for All-in-One Image Restoration </a></td>
-    <td style="text-align:center;" rowspan="2"><a href="https://basics.sjtu.edu.cn/~yangqizhe/pdf/group/semin9-ddt-1105.pptx" target= "_blank"> Slides By 董大腾 </a></td>
+    <td style="text-align:center;" rowspan="2"><a href="https://basics.sjtu.edu.cn/~yangqizhe/pdf/group/2024FALL/semin9-ddt-1105.pptx" target= "_blank"> Slides By 董大腾 </a></td>
   </tr>
   <tr>
     <td style="text-align:center;">陈旭</td>
@@ -56,7 +56,7 @@ Optimization </a></td>
     <td style="text-align:center" rowspan="2">陈逸霖</td>
     <td style="text-align:center; white-space: nowrap" rowspan="2">Omni-Kernel Network for Image Restoration</td>
     <td style="text-align:center;" rowspan="2"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/27907" target= "_blank"> Omni-Kernel Network for Image Restoration </a></td>
-    <td style="text-align:center;" rowspan="2"><a href="https://basics.sjtu.edu.cn/~yangqizhe/pdf/group/semin11-cyl-1119.pptx" target= "_blank"> Slides By 陈逸霖</a></td>
+    <td style="text-align:center;" rowspan="2"><a href="https://basics.sjtu.edu.cn/~yangqizhe/pdf/group/2024FALL/semin11-cyl-1119.pptx" target= "_blank"> Slides By 陈逸霖</a></td>
   </tr>
   <tr>
   </tr>
@@ -102,7 +102,7 @@ Optimization </a></td>
     <td style="text-align:center;">王辉</td>
     <td style="text-align:center; white-space: nowrap">ExpeL: LLM Agents Are Experiential Learners</td>
     <td style="text-align:center;"><a href="https://arxiv.org/abs/2308.10144" target= "_blank"> ExpeL: LLM Agents Are Experiential Learners </a></td>
-    <td style="text-align:center;" rowspan="2"><a href="https://basics.sjtu.edu.cn/~yangqizhe/pdf/group/semin15-wh-1217.pptx" target= "_blank"> Slides By 王辉 </a></td>
+    <td style="text-align:center;" rowspan="2"><a href="https://basics.sjtu.edu.cn/~yangqizhe/pdf/group/2024FALL/semin15-wh-1217.pptx" target= "_blank"> Slides By 王辉 </a></td>
   </tr>
   <tr>
     <td style="text-align:center;">钟毅迪</td>
@@ -115,7 +115,7 @@ Optimization </a></td>
     <td style="text-align:center" rowspan="2">陈逸霖</td>
     <td style="text-align:center; white-space: nowrap" rowspan="2">Residual Deformable Convolution for better image de-weathering</td>
     <td style="text-align:center;" rowspan="2"><a href="https://www.sciencedirect.com/science/article/pii/S0031320323007902" target= "_blank"> Residual Deformable Convolution for better image de-weathering </a></td>
-    <td style="text-align:center;" rowspan="2"></td>
+    <td style="text-align:center;" rowspan="2"><a href="https://basics.sjtu.edu.cn/~yangqizhe/pdf/group/2024FALL/semin16-cyl-1224.pptx" target= "_blank"> Slides By 陈逸霖 </a></td>
   </tr>
   <tr>
   </tr>
