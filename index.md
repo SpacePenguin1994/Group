@@ -119,7 +119,26 @@ Optimization </a></td>
   </tr>
   <tr>
   </tr>
-
+   <tr>
+    <td style="text-align:center;" rowspan="2">第$17$周</td>
+    <td style="text-align:center" rowspan="2">1月3日9:30<br>科技楼A座637</td>
+    <td style="text-align:center" rowspan="2">无</td>
+    <td style="text-align:center; white-space: nowrap" rowspan="2">学生近期工作汇报</td>
+    <td style="text-align:center;" rowspan="2"></td>
+    <td style="text-align:center;" rowspan="2"></td>
+  </tr>
+  <tr>
+  </tr>
+     <tr>
+    <td style="text-align:center;" rowspan="2">第$18$周</td>
+    <td style="text-align:center" rowspan="2">1月7日中午12:30<br>科技楼A座637</td>
+    <td style="text-align:center" rowspan="2"></td>
+    <td style="text-align:center; white-space: nowrap" rowspan="2"></td>
+    <td style="text-align:center;" rowspan="2"></td>
+    <td style="text-align:center;" rowspan="2"></td>
+  </tr>
+  <tr>
+  </tr>
    <tr>
     <td style="text-align:center;" rowspan="2"></td>
     <td style="text-align:center;" rowspan="2"></td>
