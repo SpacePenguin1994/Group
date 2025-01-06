@@ -135,7 +135,7 @@ Optimization </a></td>
     <td style="text-align:center" rowspan="2">杨一凡</td>
     <td style="text-align:center; white-space: nowrap" rowspan="2">C3LPGCN:Integrating Contrastive Learning and Cooperative Learning with Prompt into Graph Convolutional Network for Aspect-based Sentiment Analysis</td>
     <td style="text-align:center;" rowspan="2"><a href="https://aclanthology.org/2024.findings-naacl.205/" target= "_blank"> C3LPGCN:Integrating Contrastive Learning and Cooperative Learning with Prompt into Graph Convolutional Network for Aspect-based Sentiment Analysis </a></td>
-    <td style="text-align:center;" rowspan="2"></td>
+    <td style="text-align:center;" rowspan="2"><a href="https://basics.sjtu.edu.cn/~yangqizhe/pdf/group/2024FALL/semin18-yyf-0107.pptx" target= "_blank"> Slides By 杨一凡 </a></td>
   </tr>
   <tr>
   </tr>
