@@ -1,22 +1,46 @@
 {"0": {
     "doc": "主页",
     "title": "2024年秋季学期组会",
-    "content": "| 周次 | 时间地点 | 主讲人 | 主题 | 论文链接 | 备注 | . | 第$9$周 | 11月5日9:45科技楼A座637 | 董大腾 | 神经退化表示学习用于全合一图像恢复 | Neural Degradation Representation Learning for All-in-One Image Restoration | Slides By 董大腾 | . | 陈旭 | CLIPTrans：使用预训练模型传递视觉知识用于多模态机器翻译 | CLIPTrans: Transferring Visual Knowledge with Pre-trained Models for Multimodal Machine Translation | . | 第$10$周 | 11月12日9:45科技楼A座637 | 王辉 | Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization | Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization | | . | 钟毅迪 | Rich Human Feedback for Text-to-Image Generation | Rich Human Feedback for Text-to-Image Generation | . | 第$11$周 | 11月19日9:45科技楼A座637 | 陈逸霖 | Omni-Kernel Network for Image Restoration | Omni-Kernel Network for Image Restoration | Slides By 陈逸霖 | . | 第$12$周 | 11月26日9:45科技楼A座637 | 苏世辉 | Unleashing Channel Potential: Space-Frequency Selection Convolution for SAR Object Detection | Unleashing Channel Potential: Space-Frequency Selection Convolution for SAR Object Detection | | . | 荣泽语 | BAL: Balancing Diversity and Novelty for Active Learning | BAL: Balancing Diversity and Novelty for Active Learning | . | 第$13$周 | | | | | | . | | | . | 第$14$周 | | | | | | . | | | . | 第$15$周 | | | | | | . | | | . | 第$16$周 | | | | | | . | | | . | | | | | &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; | &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; | . ",
-    "url": "http://localhost:4000/#2024%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E7%BB%84%E4%BC%9A",
-    "relUrl": "/#2024年秋季学期组会"
+    "content": "| 周次 | 时间地点 | 主讲人 | 主题 | 论文链接 | 备注 | . | 第$9$周 | 11月5日9:45科技楼A座637 | 董大腾 | 神经退化表示学习用于全合一图像恢复 | Neural Degradation Representation Learning for All-in-One Image Restoration | Slides By 董大腾 | . | 陈旭 | CLIPTrans：使用预训练模型传递视觉知识用于多模态机器翻译 | CLIPTrans: Transferring Visual Knowledge with Pre-trained Models for Multimodal Machine Translation | . | 第$10$周 | 11月12日9:45科技楼A座637 | 王辉 | Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization | Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization | | . | 钟毅迪 | Rich Human Feedback for Text-to-Image Generation | Rich Human Feedback for Text-to-Image Generation | . | 第$11$周 | 11月19日9:45科技楼A座637 | 陈逸霖 | Omni-Kernel Network for Image Restoration | Omni-Kernel Network for Image Restoration | Slides By 陈逸霖 | . | 第$12$周 | 11月26日9:45科技楼A座637 | 苏世辉 | Unleashing Channel Potential: Space-Frequency Selection Convolution for SAR Object Detection | Unleashing Channel Potential: Space-Frequency Selection Convolution for SAR Object Detection | | . | 荣泽语 | BAL: Balancing Diversity and Novelty for Active Learning | BAL: Balancing Diversity and Novelty for Active Learning | . | 第$13$周 | 12月3日9:45科技楼A座637 | 张东辰 | Image dehazing via self-supervised depth guidance | Image dehazing via self-supervised depth guidance | | . | 第$14$周 | 12月10日9:45科技楼A座637 | 董大腾 | Learning A Sparse Transformer Network for Effective Image Deraining | Learning A Sparse Transformer Network for Effective Image Deraining | Slides By 董大腾 | . | 陈旭 | CDDFuse: Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion | CDDFuse: Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion | . | 第$15$周 | 12月17日9:45科技楼A座637 | 王辉 | ExpeL: LLM Agents Are Experiential Learners | ExpeL: LLM Agents Are Experiential Learners | Slides By 王辉 | . | 钟毅迪 | Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport | Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport | . | 第$16$周 | 12月24日9:45科技楼A座637 | 陈逸霖 | Residual Deformable Convolution for better image de-weathering | Residual Deformable Convolution for better image de-weathering | Slides By 陈逸霖 | . | 第$17$周 | 1月3日9:30科技楼A座637 | 无 | 学生近期工作汇报 | | | . | 第$18$周 | 1月7日12:30科技楼A座637 | 杨一凡 | C3LPGCN:Integrating Contrastive Learning and Cooperative Learning with Prompt into Graph Convolutional Network for Aspect-based Sentiment Analysis | C3LPGCN:Integrating Contrastive Learning and Cooperative Learning with Prompt into Graph Convolutional Network for Aspect-based Sentiment Analysis | Slides By 杨一凡 | . | | | | | &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; | &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; | . ",
+    "url": "http://localhost:4000/history-2024W/#2024%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E7%BB%84%E4%BC%9A",
+    "relUrl": "/history-2024W/#2024年秋季学期组会"
   },"1": {
+    "doc": "主页",
+    "title": "主页",
+    "content": " ",
+    "url": "http://localhost:4000/history-2024W/",
+    "relUrl": "/history-2024W/"
+  },"2": {
+    "doc": "主页",
+    "title": "2025春季学期组会",
+    "content": "| 周次 | 时间地点 | 主讲人 | 主题 | 论文链接 | 备注 | . | 第$1$周 | | | | | | . | | | . ",
+    "url": "http://localhost:4000/#2025%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E7%BB%84%E4%BC%9A",
+    "relUrl": "/#2025春季学期组会"
+  },"3": {
     "doc": "主页",
     "title": "组会通知",
     "content": " ",
     "url": "http://localhost:4000/#%E7%BB%84%E4%BC%9A%E9%80%9A%E7%9F%A5",
     "relUrl": "/#组会通知"
-  },"2": {
+  },"4": {
+    "doc": "主页",
+    "title": "2025年春季学期第0周通知",
+    "content": "Feb 12 &middot; 0 min read 各位新年好！欢迎来到林晓老师新一学期的组会！ . ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"5": {
     "doc": "主页",
     "title": "第8周通知",
     "content": "Oct 26 &middot; 0 min read 欢迎来到林晓老师的组会！ . ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"3": {
+  },"6": {
+    "doc": "主页",
+    "title": "往期组会记录",
+    "content": ". | 2024年秋季学期 | . ",
+    "url": "http://localhost:4000/#%E5%BE%80%E6%9C%9F%E7%BB%84%E4%BC%9A%E8%AE%B0%E5%BD%95",
+    "relUrl": "/#往期组会记录"
+  },"7": {
     "doc": "主页",
     "title": "主页",
     "content": " ",
