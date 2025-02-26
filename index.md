@@ -21,19 +21,19 @@ seo:
     <th>论文链接</th>
     <th>备注</th>
   </tr>
-  <tr>
-    <td style="text-align:center;" rowspan="2">第$1$周</td>
-    <td style="text-align:center" rowspan="2"><br></td>
-    <td style="text-align:center;"></td>
-    <td style="text-align:center; white-space: nowrap"></td>
-    <td style="text-align:center; white-space: nowrap"></td>
+ <tr>
+    <td style="text-align:center;" rowspan="2">第$2$周</td>
+    <td style="text-align:center" rowspan="2">2月28日12:45<br>科技楼A座637</td>
+    <td style="text-align:center;">董大腾</td>
+    <td style="text-align:center; white-space: nowrap">MixDehazeNet Mix Structure Block For Image Dehazing Network</td>
+    <td style="text-align:center; white-space: nowrap"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10651326" target= "_blank"> MixDehazeNet Mix Structure Block For Image Dehazing Network </a></td>
     <td style="text-align:center;" rowspan="2"></td>
   </tr>
   <tr>
-    <td style="text-align:center;"></td>
-      <td style="text-align:center; white-space: nowrap"></td>
-    <td style="text-align:center; white-space: nowrap"></td>
-  </tr>
+    <td style="text-align:center;">陈旭</td>
+      <td style="text-align:center; white-space: nowrap">SAM-guided multi-level collaborative Transformer for infrared and visible image fusion</td>
+    <td style="text-align:center; white-space: nowrap"><a href="https://www.sciencedirect.com/science/article/pii/S0031320325000512?via%3Dihub " target= "_blank" >SAM-guided multi-level collaborative Transformer for infrared and visible image fusion
+</a></td>
 </table>
 
 
