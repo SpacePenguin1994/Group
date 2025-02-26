@@ -23,7 +23,7 @@ seo:
   </tr>
  <tr>
     <td style="text-align:center;" rowspan="2">第$2$周</td>
-    <td style="text-align:center" rowspan="2">2月28日12:45<br>科技楼A座637</td>
+    <td style="text-align:center" rowspan="2">2月28日13:00<br>科技楼A座637</td>
     <td style="text-align:center;">董大腾</td>
     <td style="text-align:center; white-space: nowrap">MixDehazeNet Mix Structure Block For Image Dehazing Network</td>
     <td style="text-align:center; white-space: nowrap"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10651326" target= "_blank"> MixDehazeNet Mix Structure Block For Image Dehazing Network </a></td>
