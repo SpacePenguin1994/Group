@@ -34,6 +34,7 @@ seo:
       <td style="text-align:center; white-space: nowrap">SAM-guided multi-level collaborative Transformer for infrared and visible image fusion</td>
     <td style="text-align:center; white-space: nowrap"><a href="https://www.sciencedirect.com/science/article/pii/S0031320325000512?via%3Dihub " target= "_blank" >SAM-guided multi-level collaborative Transformer for infrared and visible image fusion
 </a></td>
+</tr>
 </table>
 
 
