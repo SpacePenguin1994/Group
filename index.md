@@ -37,7 +37,7 @@ seo:
 </tr>
  <tr>
     <td style="text-align:center;" rowspan="2">第$3$周</td>
-    <td style="text-align:center" rowspan="2">3月6日13:00<br>科技楼A座637</td>
+    <td style="text-align:center" rowspan="2">3月7日13:00<br>科技楼A座637</td>
     <td style="text-align:center;">王辉</td>
     <td style="text-align:center; white-space: nowrap"></td>
     <td style="text-align:center;"></td>
@@ -47,6 +47,19 @@ seo:
     <td style="text-align:center;">苏世辉</td>
     <td style="text-align:center; white-space: nowrap">DRNet: Learning a dynamic recursion network for chaotic rain streak removal</td>
     <td style="text-align:center;"><a href="https://www.sciencedirect.com/science/article/pii/S0031320324007556" target= "_blank"> DRNet: Learning a dynamic recursion network for chaotic rain streak removal </a></td>
+  </tr>
+  <tr>
+    <td style="text-align:center;" rowspan="2">第$4$周</td>
+    <td style="text-align:center" rowspan="2">3月14日13:00<br>科技楼A座637</td>
+    <td style="text-align:center;">陈卓扬</td>
+    <td style="text-align:center; white-space: nowrap">Gandalf: Learning Label-Label Correlations in Extreme Multi-label Classification via Label Features</td>
+    <td style="text-align:center;"><a href="https://dl.acm.org/doi/10.1145/3637528.3672063" target= "_blank"> Gandalf: Learning Label-Label Correlations in Extreme Multi-label Classification via Label Features </a></td>
+    <td style="text-align:center;" rowspan="2"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"></td>
+    <td style="text-align:center; white-space: nowrap"></td>
+    <td style="text-align:center;"></td>
   </tr>
 </table>
 
