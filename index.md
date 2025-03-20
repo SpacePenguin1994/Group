@@ -61,6 +61,16 @@ seo:
     <td style="text-align:center; white-space: nowrap"></td>
     <td style="text-align:center;"></td>
   </tr>
+   <tr>
+    <td style="text-align:center;" rowspan="2">第$5$周</td>
+    <td style="text-align:center" rowspan="2">3月20日13:00<br>科技楼A座637</td>
+    <td style="text-align:center" rowspan="2">陈逸霖</td>
+    <td style="text-align:center; white-space: nowrap" rowspan="2">Image Deraining with Frequency-Enhanced State Space Model </td>
+    <td style="text-align:center;" rowspan="2"><a href="https://arxiv.org/abs/2405.16470" target= "_blank"> Image Deraining with Frequency-Enhanced State Space Model  </a></td>
+    <td style="text-align:center;" rowspan="2"></td>
+  </tr>
+  <tr>
+  </tr>
   <tr>
     <td style="text-align:center;" rowspan="2"></td>
     <td style="text-align:center;" rowspan="2"></td>
