@@ -71,6 +71,19 @@ seo:
   </tr>
   <tr>
   </tr>
+   <tr>
+    <td style="text-align:center;" rowspan="2">第$6$周</td>
+    <td style="text-align:center" rowspan="2">3月28日13:00<br>科技楼A座637</td>
+    <td style="text-align:center;">荣泽语</td>
+    <td style="text-align:center; white-space: nowrap"> An Introduction to Prototype Contrastive Learning</td>
+    <td style="text-align:center;"></td>
+    <td style="text-align:center;" rowspan="2"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">钟毅迪</td>
+    <td style="text-align:center; white-space: nowrap">Colorful Diffuse Intrinsic Image Decomposition in the Wild</td>
+    <td style="text-align:center;"><a href="https://yaksoy.github.io/ColorfulShading/" target= "_blank"> Colorful Diffuse Intrinsic Image Decomposition in the Wild </a></td>
+  </tr>
   <tr>
     <td style="text-align:center;" rowspan="2"></td>
     <td style="text-align:center;" rowspan="2"></td>
