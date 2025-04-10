@@ -84,6 +84,14 @@ seo:
     <td style="text-align:center; white-space: nowrap">Colorful Diffuse Intrinsic Image Decomposition in the Wild</td>
     <td style="text-align:center;"><a href="https://yaksoy.github.io/ColorfulShading/" target= "_blank"> Colorful Diffuse Intrinsic Image Decomposition in the Wild </a></td>
   </tr>
+     <tr>
+    <td style="text-align:center;" rowspan="2">第$8$周</td>
+    <td style="text-align:center" rowspan="2">4月11日13:00<br>科技楼A座637</td>
+    <td style="text-align:center;">张东辰</td>
+    <td style="text-align:center; white-space: nowrap" rowspan="2">Multi-stream feature aggregation network with multi-scale supervision for single image dehazing </td>
+    <td style="text-align:center;" rowspan="2"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197624016440" target= "_blank"> Multi-stream feature aggregation network with multi-scale supervision for single image dehazing  </a></td>
+    <td style="text-align:center;" rowspan="2"></td>
+  </tr>
   <tr>
     <td style="text-align:center;" rowspan="2"></td>
     <td style="text-align:center;" rowspan="2"></td>
