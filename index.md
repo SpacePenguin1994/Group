@@ -95,6 +95,20 @@ seo:
   <tr>
   </tr>
   <tr>
+    <td style="text-align:center;" rowspan="2">第$9$周</td>
+    <td style="text-align:center" rowspan="2">4月18日13:00<br>科技楼A座637</td>
+    <td style="text-align:center;">董大腾</td>
+    <td style="text-align:center; white-space: nowrap">CycFormer: Unsupervised Rain Removal Network Based on CycleGAN and Transformer</td>
+    <td style="text-align:center; white-space: nowrap"><a href="https://ieeexplore.ieee.org/document/10927620" target= "_blank"> CycFormer: Unsupervised Rain Removal Network Based on CycleGAN and Transformer </a></td>
+    <td style="text-align:center;" rowspan="2"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">陈旭</td>
+      <td style="text-align:center; white-space: nowrap">AMLCA: Additive multi-layer convolution-guided cross-attention network for visible and infrared image fusion  </td>
+    <td style="text-align:center; white-space: nowrap"><a href="https://www.sciencedirect.com/science/article/pii/S0031320325001281?via%3Dihub  " target= "_blank" >AMLCA: Additive multi-layer convolution-guided cross-attention network for visible and infrared image fusion  
+</a></td>
+</tr>
+  <tr>
     <td style="text-align:center;" rowspan="2"></td>
     <td style="text-align:center;" rowspan="2"></td>
     <td style="text-align:center;" rowspan="2"></td>
