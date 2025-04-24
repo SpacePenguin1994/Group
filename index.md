@@ -108,6 +108,19 @@ seo:
     <td style="text-align:center; white-space: nowrap"><a href="https://www.sciencedirect.com/science/article/pii/S0031320325001281?via%3Dihub  " target= "_blank" >AMLCA: Additive multi-layer convolution-guided cross-attention network for visible and infrared image fusion  
 </a></td>
 </tr>
+<tr>
+    <td style="text-align:center;" rowspan="2">第$10$周</td>
+    <td style="text-align:center" rowspan="2">4月25日13:00<br>科技楼A座637</td>
+    <td style="text-align:center;">王辉</td>
+    <td style="text-align:center; white-space: nowrap">Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems</td>
+    <td style="text-align:center;"><a href="https://arxiv.org/abs/2501.10332" target="_blank"> Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems</a></td>
+    <td style="text-align:center;" rowspan="2"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">钟毅迪</td>
+    <td style="text-align:center; white-space: nowrap"></td>
+    <td style="text-align:center;"></td>
+  </tr>
   <tr>
     <td style="text-align:center;" rowspan="2"></td>
     <td style="text-align:center;" rowspan="2"></td>
