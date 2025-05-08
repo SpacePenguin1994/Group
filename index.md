@@ -122,6 +122,19 @@ seo:
     <td style="text-align:center;"></td>
   </tr>
   <tr>
+    <td style="text-align:center;" rowspan="2">第$12$周</td>
+    <td style="text-align:center" rowspan="2">5月9日13:00<br>科技楼A座637</td>
+    <td style="text-align:center;">陈卓扬</td>
+    <td style="text-align:center; white-space: nowrap">PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation</td>
+    <td style="text-align:center;"><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Wang_PanoOcc_Unified_Occupancy_Representation_for_Camera-based_3D_Panoptic_Segmentation_CVPR_2024_paper.html" target="_blank">PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation</a></td>
+    <td style="text-align:center;" rowspan="2"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">孙逸晨</td>
+    <td style="text-align:center; white-space: nowrap"></td>
+    <td style="text-align:center;"></td>
+  </tr>
+  <tr>
     <td style="text-align:center;" rowspan="2"></td>
     <td style="text-align:center;" rowspan="2"></td>
     <td style="text-align:center;" rowspan="2"></td>
