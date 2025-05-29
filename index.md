@@ -167,8 +167,6 @@ seo:
     <td style="text-align:center;" rowspan="2"></td>
   </tr>
   <tr>
-  </tr>
-  <tr>
     <td style="text-align:center;" rowspan="2"></td>
     <td style="text-align:center;" rowspan="2"></td>
     <td style="text-align:center;" rowspan="2"></td>
