@@ -144,6 +144,29 @@ seo:
     <td style="text-align:center;" rowspan="2"></td>
   </tr>
   <tr>
+   <tr>
+    <td style="text-align:center;" rowspan="2">第$14$周</td>
+    <td style="text-align:center" rowspan="2">5月23日13:00<br>科技楼A座637</td>
+    <td style="text-align:center;">苏世辉</td>
+    <td style="text-align:center; white-space: nowrap">Parameter-efficient fine-tuning for single image snow removal</td>
+    <td style="text-align:center;"><a href="https://www.sciencedirect.com/science/article/pii/S0957417424027684" target="_blank">Parameter-efficient fine-tuning for single image snow removal</a></td>
+    <td style="text-align:center;" ></td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">荣泽语</td>
+    <td style="text-align:center; white-space: nowrap">Efficiently Learning at Test-Time: Active Fine-Tuning of LLMs</td>
+    <td style="text-align:center;"><a href="https://arxiv.org/abs/2410.08020" target="_blank"Efficiently Learning at Test-Time: Active Fine-Tuning of LLMs</a></td>
+    <td style="text-align:center;"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center;" rowspan="2">第$15$周</td>
+    <td style="text-align:center" rowspan="2">5月30日13:00<br>科技楼A座637</td>
+    <td style="text-align:center" rowspan="2">张东辰</td>
+    <td style="text-align:center; white-space: nowrap" rowspan="2">Real Scene Single Image Dehazing Network with Multi-Prior Guidance and Domain Transfer </td>
+    <td style="text-align:center;" rowspan="2"><a href="https://ieeexplore.ieee.org/abstract/document/10891618" target= "_blank"> Real Scene Single Image Dehazing Network with Multi-Prior Guidance and Domain Transfer  </a></td>
+    <td style="text-align:center;" rowspan="2"></td>
+  </tr>
+  <tr>
   </tr>
   <tr>
     <td style="text-align:center;" rowspan="2"></td>
