@@ -156,7 +156,7 @@ seo:
   <tr>
     <td style="text-align:center;">荣泽语</td>
     <td style="text-align:center; white-space: nowrap">Efficiently Learning at Test-Time: Active Fine-Tuning of LLMs</td>
-    <td style="text-align:center;"><a href="https://arxiv.org/abs/2410.08020" target="_blank"Efficiently Learning at Test-Time: Active Fine-Tuning of LLMs</a></td>
+    <td style="text-align:center;"><a href="https://arxiv.org/abs/2410.08020" target="_blank">Efficiently Learning at Test-Time: Active Fine-Tuning of LLMs</a></td>
     <td style="text-align:center;"></td>
   </tr>
   <tr>
