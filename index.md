@@ -143,7 +143,6 @@ seo:
     <td style="text-align:center;" rowspan="2"><a href="https://arxiv.org/abs/2407.08083" target= "_blank"> MambaVision: A Hybrid Mamba-Transformer Vision Backbone  </a></td>
     <td style="text-align:center;" rowspan="2"></td>
   </tr>
-  <tr>
    <tr>
     <td style="text-align:center;" rowspan="2">第$14$周</td>
     <td style="text-align:center" rowspan="2">5月23日13:00<br>科技楼A座637</td>
