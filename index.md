@@ -143,6 +143,8 @@ seo:
     <td style="text-align:center;" rowspan="2"><a href="https://arxiv.org/abs/2407.08083" target= "_blank"> MambaVision: A Hybrid Mamba-Transformer Vision Backbone  </a></td>
     <td style="text-align:center;" rowspan="2"></td>
   </tr>
+    <tr>
+  </tr>
    <tr>
     <td style="text-align:center;" rowspan="2">第$14$周</td>
     <td style="text-align:center" rowspan="2">5月23日13:00<br>科技楼A座637</td>
@@ -164,6 +166,8 @@ seo:
     <td style="text-align:center; white-space: nowrap" rowspan="2">Real Scene Single Image Dehazing Network with Multi-Prior Guidance and Domain Transfer </td>
     <td style="text-align:center;" rowspan="2"><a href="https://ieeexplore.ieee.org/abstract/document/10891618" target= "_blank"> Real Scene Single Image Dehazing Network with Multi-Prior Guidance and Domain Transfer  </a></td>
     <td style="text-align:center;" rowspan="2"></td>
+  </tr>
+    <tr>
   </tr>
   <tr>
     <td style="text-align:center;" rowspan="2"></td>
