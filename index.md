@@ -169,6 +169,30 @@ seo:
   </tr>
     <tr>
   </tr>
+    <tr>
+    <td style="text-align:center;" rowspan="2">第$16$周</td>
+    <td style="text-align:center" rowspan="2">6月6日13:00<br>科技楼A座637</td>
+    <td style="text-align:center" rowspan="2">洪毅</td>
+    <td style="text-align:center; white-space: nowrap" rowspan="2">Hierarchical NeuroSymbolic Approach for Comprehensive and Explainable Action Quality Assessment </td>
+    <td style="text-align:center;" rowspan="2"><a href="https://ieeexplore.ieee.org/document/10678634" target= "_blank"> Hierarchical NeuroSymbolic Approach for Comprehensive and Explainable Action Quality Assessment  </a></td>
+    <td style="text-align:center;" rowspan="2"></td>
+  </tr>
+    <tr>
+  </tr>
+     <tr>
+    <td style="text-align:center;" rowspan="2">第$17$周</td>
+    <td style="text-align:center" rowspan="2">6月13日13:00<br>科技楼A座637</td>
+    <td style="text-align:center;">董大腾</td>
+    <td style="text-align:center; white-space: nowrap">Dual-Pixel Raindrop Removal</td>
+    <td style="text-align:center;"><a href="https://ieeexplore.ieee.org/document/10636073" target="_blank">Dual-Pixel Raindrop Removal</a></td>
+    <td style="text-align:center;" ></td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">陈旭</td>
+    <td style="text-align:center; white-space: nowrap">A full-scale hierarchical encoder-decoder network with cascading edge-prior for infrared and visible image fusion</td>
+    <td style="text-align:center;"><a href="https://www.sciencedirect.com/science/article/pii/S0031320323008890?via%3Dihub" target="_blank">A full-scale hierarchical encoder-decoder network with cascading edge-prior for infrared and visible image fusion</a></td>
+    <td style="text-align:center;"></td>
+  </tr>
   <tr>
     <td style="text-align:center;" rowspan="2"></td>
     <td style="text-align:center;" rowspan="2"></td>
