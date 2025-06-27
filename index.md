@@ -193,6 +193,30 @@ seo:
     <td style="text-align:center;"><a href="https://www.sciencedirect.com/science/article/pii/S0031320323008890?via%3Dihub" target="_blank">A full-scale hierarchical encoder-decoder network with cascading edge-prior for infrared and visible image fusion</a></td>
     <td style="text-align:center;"></td>
   </tr>
+      <tr>
+    <td style="text-align:center;" rowspan="2">第$18$周</td>
+    <td style="text-align:center" rowspan="2">6月20日13:00<br>科技楼A座637</td>
+    <td style="text-align:center" rowspan="2">钟毅迪</td>
+    <td style="text-align:center; white-space: nowrap" rowspan="2">IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis </td>
+    <td style="text-align:center;" rowspan="2"><a href="https://zju3dv.github.io/intrinsic_nerf/" target= "_blank"> IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis  </a></td>
+    <td style="text-align:center;" rowspan="2"></td>
+  </tr>
+    <tr>
+  </tr>
+       <tr>
+    <td style="text-align:center;" rowspan="2">第$19$周</td>
+    <td style="text-align:center" rowspan="2">6月27日13:00<br>科技楼A座637</td>
+    <td style="text-align:center;">王辉</td>
+    <td style="text-align:center; white-space: nowrap">Training Turn-by-Turn Verifiers for Dialogue Tutoring Agents:The Curious Case of LLMs as Your Coding Tutors</td>
+    <td style="text-align:center;"><a href="https://arxiv.org/abs/2502.13311" target="_blank">Training Turn-by-Turn Verifiers for Dialogue Tutoring Agents:The Curious Case of LLMs as Your Coding Tutors</a></td>
+    <td style="text-align:center;" ></td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">陈卓扬</td>
+    <td style="text-align:center; white-space: nowrap">ADefMamba: Deformable Visual State Space Model</td>
+    <td style="text-align:center;"><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Liu_DefMamba_Deformable_Visual_State_Space_Model_CVPR_2025_paper.html" target="_blank">DefMamba: Deformable Visual State Space Model</a></td>
+    <td style="text-align:center;"></td>
+  </tr>
   <tr>
     <td style="text-align:center;" rowspan="2"></td>
     <td style="text-align:center;" rowspan="2"></td>
