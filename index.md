@@ -217,6 +217,20 @@ seo:
     <td style="text-align:center;"><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Liu_DefMamba_Deformable_Visual_State_Space_Model_CVPR_2025_paper.html" target="_blank">DefMamba: Deformable Visual State Space Model</a></td>
     <td style="text-align:center;"></td>
   </tr>
+    <tr>
+    <td style="text-align:center;" rowspan="2">第$20$周</td>
+    <td style="text-align:center" rowspan="2">7月4日13:00<br>科技楼A座719</td>
+    <td style="text-align:center;">陈逸霖</td>
+    <td style="text-align:center; white-space: nowrap">ACL: Activating Capability of Linear Attention for Image Restoration</td>
+    <td style="text-align:center;"><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Gu_ACL_Activating_Capability_of_Linear_Attention_for_Image_Restoration_CVPR_2025_paper.pdf" target="_blank">ACL: Activating Capability of Linear Attention for Image Restoration</a></td>
+    <td style="text-align:center;" ></td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">苏世辉</td>
+    <td style="text-align:center; white-space: nowrap">Optimized connections and feature interactions for more efficient single-image desnowing</td>
+    <td style="text-align:center;"><a href="hhttps://www.sciencedirect.com/science/article/pii/S1568494625004648" target="_blank">Optimized connections and feature interactions for more efficient single-image desnowing</a></td>
+    <td style="text-align:center;"></td>
+  </tr>
   <tr>
     <td style="text-align:center;" rowspan="2"></td>
     <td style="text-align:center;" rowspan="2"></td>
